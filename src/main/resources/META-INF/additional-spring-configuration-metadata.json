@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jdbc.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jdbc.properties.hibernate.dialect'"
+  },
+  {
+    "name": "hikariConfig.setMinimumIdle(5);",
+    "type": "java.lang.String",
+    "description": "A description for 'hikariConfig.setMinimumIdle(5);'"
+  },
+  {
+    "name": "hikariConfig.setMaximumPoolSize(10);",
+    "type": "java.lang.String",
+    "description": "A description for 'hikariConfig.setMaximumPoolSize(10);'"
+  }
+]}
